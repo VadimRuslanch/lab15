@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.010e4bc5.css",
-    "main.js": "/static/js/main.729dabda.js",
-    "static/media/background.jpg": "/static/media/background.b091857d0646fd1ccce9.jpg",
-    "static/media/UFU.png": "/static/media/UFU.62b588bfd49ac09f5fec.png",
-    "static/media/Caveat-SemiBold.ttf": "/static/media/Caveat-SemiBold.d22864b4c88c0e98cda2.ttf",
-    "static/media/Caveat-Medium.ttf": "/static/media/Caveat-Medium.a661a40777402bb8c6ff.ttf",
-    "static/media/Caveat-Bold.ttf": "/static/media/Caveat-Bold.b4c2105c3a62bce010d1.ttf",
-    "static/media/Caveat-Regular.ttf": "/static/media/Caveat-Regular.419940188ab4de524042.ttf",
-    "static/media/Caveat-SemiBold.woff": "/static/media/Caveat-SemiBold.defab41800ff488bdf50.woff",
-    "static/media/Caveat-Medium.woff": "/static/media/Caveat-Medium.3fe1a214705c8e3a6969.woff",
-    "static/media/Caveat-Regular.woff": "/static/media/Caveat-Regular.54bc17c5e4db66506243.woff",
-    "index.html": "/index.html",
-    "main.010e4bc5.css.map": "/static/css/main.010e4bc5.css.map",
-    "main.729dabda.js.map": "/static/js/main.729dabda.js.map"
+    "main.css": "/lab15/static/css/main.b2c66439.css",
+    "main.js": "/lab15/static/js/main.580456ab.js",
+    "static/media/background.jpg": "/lab15/static/media/background.b091857d0646fd1ccce9.jpg",
+    "static/media/UFU.png": "/lab15/static/media/UFU.62b588bfd49ac09f5fec.png",
+    "static/media/Caveat-SemiBold.ttf": "/lab15/static/media/Caveat-SemiBold.d22864b4c88c0e98cda2.ttf",
+    "static/media/Caveat-Medium.ttf": "/lab15/static/media/Caveat-Medium.a661a40777402bb8c6ff.ttf",
+    "static/media/Caveat-Bold.ttf": "/lab15/static/media/Caveat-Bold.b4c2105c3a62bce010d1.ttf",
+    "static/media/Caveat-Regular.ttf": "/lab15/static/media/Caveat-Regular.419940188ab4de524042.ttf",
+    "static/media/Caveat-SemiBold.woff": "/lab15/static/media/Caveat-SemiBold.defab41800ff488bdf50.woff",
+    "static/media/Caveat-Medium.woff": "/lab15/static/media/Caveat-Medium.3fe1a214705c8e3a6969.woff",
+    "static/media/Caveat-Regular.woff": "/lab15/static/media/Caveat-Regular.54bc17c5e4db66506243.woff",
+    "index.html": "/lab15/index.html",
+    "main.b2c66439.css.map": "/lab15/static/css/main.b2c66439.css.map",
+    "main.580456ab.js.map": "/lab15/static/js/main.580456ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.010e4bc5.css",
-    "static/js/main.729dabda.js"
+    "static/css/main.b2c66439.css",
+    "static/js/main.580456ab.js"
   ]
 }
