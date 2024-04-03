@@ -1,0 +1,17 @@
+@import "./normalize.css";
+@import "../assets/fonst/fonts.css";
+
+html,body, .app{
+    height:  100%;
+    font-family: Caveat, serif;
+}
+
+.app{
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}

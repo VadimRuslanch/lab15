@@ -1,0 +1,45 @@
+.main{
+    margin-top: 111px;
+    flex-grow: 1;
+    display: grid;
+    grid-template-areas: 'section article aside';
+    grid-auto-columns: 20% 60% 20%;
+}
+
+.section{
+    height: 100%;
+    grid-area: section;
+    background-image: url("../../assets/background.jpg");
+    background-position: left top;
+}
+
+.article{
+    padding-top: 36px;
+    display: grid;
+    justify-items: center;
+    border-left: 1px solid ;
+    border-right: 1px solid black;
+    grid-area: article;
+}
+
+.article__title{
+    font-size: 34px;
+}
+
+.article__text{
+    font-size: 24px;
+}
+
+.article__title{
+
+}
+
+.aside{
+    display: flex;
+    justify-content: center;
+    grid-area: aside;
+}
+
+.aside__text{
+    font-size: 24px;
+}
